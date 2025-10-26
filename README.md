@@ -51,7 +51,7 @@ python main_chat.py --model Qwen/Qwen2-0.5B --memory 4 --max-new-tokens 80
 
 ### Example Output
 
-<img width="978" height="127" alt="Image" src="https://github.com/user-attachments/assets/f55664e4-dbbe-4c66-99c2-5d97113e1f8f" />
+<img width="427" height="138" alt="Image" src="https://github.com/user-attachments/assets/6dc73c2d-6663-4b78-88b1-ef0641df06fe" />
 
 
 
